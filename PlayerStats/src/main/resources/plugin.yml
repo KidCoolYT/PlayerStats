@@ -1,0 +1,6 @@
+name: PlayerStats
+version: ${project.version}
+main: me.notxarb.playerstats.PlayerStats
+api-version: 1.16
+commands:
+  mystats:

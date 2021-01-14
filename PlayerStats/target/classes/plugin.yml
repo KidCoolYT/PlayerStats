@@ -1,0 +1,6 @@
+name: PlayerStats
+version: 1.0-SNAPSHOT
+main: me.notxarb.playerstats.PlayerStats
+api-version: 1.16
+commands:
+  mystats:
